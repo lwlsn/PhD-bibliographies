@@ -17,8 +17,13 @@ Co-creation strategies for human-machine collaboration have been explored in var
 In this paper we describe the implementation of an autonomous agent for live coding—the practice of creating art in real-time by writing computer code. We aim for this to be a co-creative system, using machine agents to explore not-yet conceptualised code sequences and support coders in asking new questions.
 
 
-## Upcoming Journal Article 
+## ICCC 2021 Doctorial Consortium 
 
+Algorithms (of some sort or another) have been presentin  music  for  centuries.  The  practice  of  live  coding, has adopted them in live musical performance settings as  a  new  paradigm  of  highly-expressive  music  making. Here, the notions of creativity between humans and computers, and the interaction between the two parties, are  considered  for  live  coding  systems.   Specifically, this work focuses on how computationally creative systems based in live-coding should incorporate emotional meaning into collaborative musical actions by looking to models of affective response
+
+
+
+## Upcoming Journal Article 
 
 
 
